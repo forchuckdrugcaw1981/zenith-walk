@@ -1,0 +1,27 @@
+{
+  "name": "zenith-walk",
+  "version": "1.0.0",
+  "description": "Module providing a collection of utility functions inspired by reaching the zenith of one's potential for various purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/forchuckdrugcaw1981/zenith-walk"
+  },
+  "dependencies": {
+    "uuid": "^8.3.2",
+    "take-text-crypto": "1.0.0",
+    "give-password-utils": "1.0.0",
+    "ringcosmic-horizons": "1.0.0",
+    "kastpitocidanielle-text-crypto": "1.1.4",
+    "cosmic-tools-urge": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forchuckdrugcaw1981/zenith-walk/issues"
+  },
+  "homepage": "https://github.com/forchuckdrugcaw1981/zenith-walk#readme"
+}
